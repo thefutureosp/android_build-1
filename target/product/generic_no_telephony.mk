@@ -31,13 +31,10 @@ PRODUCT_PACKAGES := \
     FusedLocation \
     Gallery2 \
     InputDevices \
-    InCallUI \
     Keyguard \
     LatinIME \
-    Launcher3 \
-    MonthCalendarWidget \
+    Launcher2 \
     Music \
-    MusicFX \
     OneTimeInitializer \
     PrintSpooler \
     Provision \
